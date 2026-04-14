@@ -110,6 +110,23 @@ This will:
 * evaluate model performance
 * save the model as model_prediksi.pkl
 
+## How to Run (Web Version)
+
+You can also use the application directly without installing anything via Streamlit Cloud:
+
+Open the app in your browser:
+
+```bash
+https://prediksi-siswa.streamlit.app/
+```
+
+Steps:
+
+1. Open the link above
+2. Upload a CSV file with the required format
+3. View prediction results
+4. Download the generated output file
+
 ## System Workflow
 
 1. Prepare training dataset
